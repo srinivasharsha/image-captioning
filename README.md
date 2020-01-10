@@ -1,1 +1,1 @@
-# image-captioning
+# Image-Captioning-using-RNN-and-LSTM
